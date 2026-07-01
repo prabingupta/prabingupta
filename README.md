@@ -18,13 +18,13 @@
 
 ### 🧑‍💻 Who I Am
 
-I'm a Computing graduate from **Islington College, Kathmandu** (affiliated with **London Metropolitan University**), with a **BSc (Hons) in Computing with Artificial Intelligence**. I like building complete, working systems — from AI-powered platforms and predictive models to full-stack web applications — and taking them from problem analysis through to deployment.
+I'm a Computing graduate from **Islington College, Kathmandu** (affiliated with **London Metropolitan University**), with a **BSc (Hons) in Computing with Artificial Intelligence**. I like building complete, working systems from AI-powered platforms and predictive models to full-stack web applications and taking them from problem analysis through to deployment.
 
 ---
 
 ### 🎓 Education
 
-- 🏫 **BSc (Hons) Computing with Artificial Intelligence** — Islington College, Kathmandu (affiliated with London Metropolitan University)
+- 🏫 **BSc (Hons) Computing with Artificial Intelligence** Islington College, Kathmandu (affiliated with London Metropolitan University)
 
 ---
 
@@ -50,9 +50,9 @@ I'm a Computing graduate from **Islington College, Kathmandu** (affiliated with 
 
 </div>
 
-> **SecureVoter AI** — A web-based biometric online voting platform built for college elections, with liveness detection and secure vote handling.
+> **SecureVoter AI**  A web-based biometric online voting platform built for college elections, with liveness detection and secure vote handling.
 >
-> **Chatbot-AI** — A full-stack AI chatbot built with Django and React, integrating LLM APIs for conversational responses.
+> **Chatbot-AI**  A full-stack AI chatbot built with Django and React, integrating LLM APIs for conversational responses.
 
 ---
 
@@ -136,8 +136,8 @@ I'm a Computing graduate from **Islington College, Kathmandu** (affiliated with 
 
 ### 📫 Let's Connect
 
-I'm always open to collaborating on AI, full-stack, or open-source projects — feel free to reach out.
+I'm always open to collaborating on AI, full-stack, or open-source projects  feel free to reach out.
 
-**Thanks for visiting my profile — let's build something great together!**
+**Thanks for visiting my profile and let's build something great together!**
 
 </div>
