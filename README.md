@@ -18,9 +18,7 @@
 
 ### 🧑‍💻 Who I Am
 
-I'm a Computing graduate from **Islington College, Kathmandu** (affiliated with **London Metropolitan University**), with a **BSc (Hons) in Computing with Artificial Intelligence**. I build full-stack, AI-powered applications with a strong focus on real-world, practical systems — from biometric security platforms to healthcare data tools.
-
-I enjoy taking a project from problem analysis through to a working, deployed product, and I like keeping my code clean and my architecture well thought out before I start building.
+I'm a Computing graduate from **Islington College, Kathmandu** (affiliated with **London Metropolitan University**), with a **BSc (Hons) in Computing with Artificial Intelligence**. I like building complete, working systems — from AI-powered platforms and predictive models to full-stack web applications — and taking them from problem analysis through to deployment.
 
 ---
 
@@ -30,24 +28,16 @@ I enjoy taking a project from problem analysis through to a working, deployed pr
 
 ---
 
-### 🚀 Currently Building & Learning
-
-- 🔐 **SecureVoter AI** — a Django-based biometric online election platform with real-time liveness detection
-- 🩸 **Blood Bank Management System** — a full-stack system for managing blood donation and inventory
-- 📚 Deepening my skills in applied AI/ML, computer vision, and full-stack deployment
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,react,js,html,css,postgres,mysql,mongodb,git,github,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,react,js,html,css,postgres,mysql,mongodb,git,github,vscode" />
 </p>
 
-**AI / ML:** Python · TensorFlow · OpenCV · MediaPipe · Scikit-learn
-**Web:** Django · React · JavaScript · HTML/CSS
+**AI / ML / Data:** Python · Scikit-learn · PySpark · Pandas
+**Web:** Django · React · JavaScript · HTML/CSS · Java
 **Databases:** PostgreSQL · MySQL · MongoDB
-**Tools:** Git · GitHub · VS Code · Docker
+**Tools:** Git · GitHub · VS Code
 
 ---
 
@@ -56,13 +46,66 @@ I enjoy taking a project from problem analysis through to a working, deployed pr
 <div align="center">
 
 [![SecureVoterAI](https://github-readme-stats.vercel.app/api/pin/?username=prabingupta&repo=SecureVoterAI&theme=dark)](https://github.com/prabingupta/SecureVoterAI)
-[![BloodBankManagementSystem](https://github-readme-stats.vercel.app/api/pin/?username=prabingupta&repo=BloodBankManagementSystem&theme=dark)](https://github.com/prabingupta/BloodBankManagementSystem)
+[![Chatbot-AI](https://github-readme-stats.vercel.app/api/pin/?username=prabingupta&repo=Chatbot-AI&theme=dark)](https://github.com/prabingupta/Chatbot-AI)
 
 </div>
 
-> **SecureVoter AI** — A biometric online election platform built with Django, featuring MediaPipe FaceMesh liveness detection, AES-256 encryption, and an admin analytics dashboard.
+> **SecureVoter AI** — A web-based biometric online voting platform built for college elections, with liveness detection and secure vote handling.
 >
-> **Blood Bank Management System** — A full-stack system to manage blood donors, inventory, and requests.
+> **Chatbot-AI** — A full-stack AI chatbot built with Django and React, integrating LLM APIs for conversational responses.
+
+---
+
+### 🤖 AI / ML & Data Science Projects
+
+| Project | Description |
+|---|---|
+| [SecureVoterAI](https://github.com/prabingupta/SecureVoterAI) | Biometric web-based college online voting system |
+| [Chatbot-AI](https://github.com/prabingupta/Chatbot-AI) | Full-stack AI chatbot with Django backend and React frontend |
+| [Customer_Churn_Prediction](https://github.com/prabingupta/Customer_Churn_Prediction) | ML model predicting customer churn from behavioral data |
+| [Tourism_Arrival_Forecasting](https://github.com/prabingupta/Tourism_Arrival_Forecasting) | Time-series forecasting of Nepal tourism arrivals |
+| [Cardio_Vascular_Disease_Prediction](https://github.com/prabingupta/Cardio_Vascular_Disease_Prediction) | ML model predicting cardiovascular disease risk |
+| [Disease_Risk_Prediction](https://github.com/prabingupta/Disease_Risk_Prediction) | Predictive model for general disease risk assessment |
+| [SMS-Spam-Classification](https://github.com/prabingupta/SMS-Spam-Classification) | NLP-based classifier for detecting spam SMS messages |
+| [Adult-Income-](https://github.com/prabingupta/Adult-Income-) | ML model predicting income category from census data |
+| [Big-Data-Pyspark](https://github.com/prabingupta/Big-Data-Pyspark) | Big data processing and analysis using PySpark |
+| [WeatherData](https://github.com/prabingupta/WeatherData) | Data analysis project on weather datasets |
+
+---
+
+### 🌐 Web Development Projects
+
+| Project | Description |
+|---|---|
+| [E-Commerce-Website](https://github.com/prabingupta/E-Commerce-Website) | Full-stack e-commerce web application |
+| [StyleKart-Clothing-E-Commerce-Website-](https://github.com/prabingupta/StyleKart-Clothing-E-Commerce-Website-) | Clothing e-commerce platform, "StyleKart" |
+| [Land-Management-](https://github.com/prabingupta/Land-Management-) | Web system for managing land records |
+| [Rent-Land-System](https://github.com/prabingupta/Rent-Land-System) | Platform for renting and managing land listings |
+| [Blood-Link-Management](https://github.com/prabingupta/Blood-Link-Management) | Blood donation and inventory management platform |
+| [AI-Based-Library-Management-System](https://github.com/prabingupta/AI-Based-Library-Management-System) | Library management system with AI-assisted features |
+| [SewaSathi](https://github.com/prabingupta/SewaSathi) | Service-based platform (Nepal-context application) |
+| [SmartQueueSystem](https://github.com/prabingupta/SmartQueueSystem) | Smart queue management system |
+
+---
+
+### 🩸 Earlier Blood Bank Projects
+
+| Project | Description |
+|---|---|
+| [BloodBankManagementSystem](https://github.com/prabingupta/BloodBankManagementSystem) | Blood bank management system |
+| [bloodbanksystem](https://github.com/prabingupta/bloodbanksystem) | Java-based blood bank system |
+| [BloodBank](https://github.com/prabingupta/BloodBank) | Blood bank management project |
+| [Blood-Link](https://github.com/prabingupta/Blood-Link) | Blood donation linking platform |
+
+---
+
+### 🧰 Tools & Coursework Projects
+
+| Project | Description |
+|---|---|
+| [Media_Tools-](https://github.com/prabingupta/Media_Tools-) | Collection of media processing tools |
+| [InteractiveHelpDesk-DSA-Project-](https://github.com/prabingupta/InteractiveHelpDesk-DSA-Project-) | Interactive help desk system, built as a DSA coursework project |
+| [Himal](https://github.com/prabingupta/Himal) | Java-based application |
 
 ---
 
